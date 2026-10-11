@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#080807"/>
+  <rect x="330" y="80" width="140" height="250" rx="16" fill="#d8d2c8"/>
+  <rect x="330" y="670" width="140" height="250" rx="16" fill="#d8d2c8"/>
+  <circle cx="400" cy="500" r="210" fill="#c8c2b8"/>
+  <circle cx="400" cy="500" r="176" fill="#11100e"/>
+  <circle cx="400" cy="500" r="150" fill="#e7d3ae"/>
+  <circle cx="400" cy="500" r="168" fill="none" stroke="#C7A56A" stroke-width="1"/>
+  <g stroke="#3a2e22" stroke-width="3">
+    <path d="M400 360 v70"/><path d="M400 500 l70 -20"/>
+  </g>
+  <text x="400" y="560" text-anchor="middle" fill="#3a2e22" font-size="18" letter-spacing="6" font-family="Georgia, serif">AURELIS</text>
+  <text x="400" y="940" text-anchor="middle" fill="#A8A095" font-size="16" letter-spacing="4">Lumiere</text>
+</svg>
